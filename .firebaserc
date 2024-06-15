@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-83926": {
+      "hosting": {
+        "danotes": [
+          "danotes-83926"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-83926"
+  }
+}
